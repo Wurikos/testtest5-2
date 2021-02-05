@@ -58,7 +58,7 @@ export default (() => {
 		<RawHtml>
 			<script
 				async={true}
-				type={"javascript"}
+				type={""}
 				crossorigin={"cross"}
 				integrity={"integrity"}
 				referrerpolicy={"refer"}
