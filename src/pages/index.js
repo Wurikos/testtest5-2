@@ -58,10 +58,11 @@ export default (() => {
 		<RawHtml>
 			<script
 				async={true}
-				type={"type"}
+				type={"javascript"}
 				crossorigin={"cross"}
 				integrity={"integrity"}
 				referrerpolicy={"refer"}
+				src={""}
 				place={"endOfHead"}
 				rawKey={"601d428290895811210d6342"}
 			>
